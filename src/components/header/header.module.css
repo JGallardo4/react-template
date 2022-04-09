@@ -1,0 +1,19 @@
+/* Mobile */
+.Navbar {
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  background: white;
+  padding: 0.5rem 1rem;
+  box-shadow: 0px 1px 2px -1px #ccc;
+}
+
+.Navbar_logo {
+  width: 10rem;
+  height: auto;
+}
+
+.Navbar_logo svg {
+  width: auto;
+  height: 100%;
+}
